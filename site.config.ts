@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Chritch\'s notion blog',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  // twitter: 'transitive_bs',
+  // github: 'transitive-bullshit',
+  // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -45,7 +45,7 @@ export default siteConfig({
   // pageUrlOverrides: {
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-  // }
+  // } 
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to

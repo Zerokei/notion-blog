@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Chritch\'s Blog',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'blog.zerokei.top',
+  author: 'Chritch',
 
   // open graph metadata (optional)
   description: 'Chritch\'s notion blog',
@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: "https://images.zerokei.top/icons/blog-icon.png",
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 

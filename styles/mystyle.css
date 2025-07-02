@@ -714,3 +714,11 @@ body {
 .notion-property-status-item {
   border-radius: 8px;
 }
+
+
+/**
+ * ========== Table View ==========
+ */
+.notion-page-title {
+  display: none;
+}
